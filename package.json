@@ -1,0 +1,24 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "The Muslim School Website ",
+  "homepage": "https://github.com/wasiqaliiii/The-Muslim-School-Backend-#readme",
+  "bugs": {
+    "url": "https://github.com/wasiqaliiii/The-Muslim-School-Backend-/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wasiqaliiii/The-Muslim-School-Backend-.git"
+  },
+  "license": "ISC",
+  "author": "Wasiq Ali",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "server": "^1.0.42"
+  }
+}
