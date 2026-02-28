@@ -18,7 +18,18 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "body-parser": "^2.2.2",
+    "csv-writer": "^1.6.0",
+    "dotenv": "^17.3.1",
     "express": "^5.2.1",
+    "express-rate-limit": "^8.2.1",
+    "helmet": "^8.1.0",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.2.3",
+    "multer": "^2.1.0",
+    "mysql2": "^3.18.2",
+    "nodemon": "^3.1.14",
     "server": "^1.0.42"
   }
 }
